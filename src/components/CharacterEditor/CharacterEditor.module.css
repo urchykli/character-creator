@@ -35,3 +35,11 @@
 .controlColumn {
   max-width: 50%;
 }
+
+.characterBackground {
+  width: 100%;
+  height: 40%;
+  position: fixed;
+  bottom: 0;
+  background-color: hsl(195deg, 20%, 86%);
+}
